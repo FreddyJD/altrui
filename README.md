@@ -1,7 +1,11 @@
 # altrui
 Altrui is an open-source decentralized "gofundme" built to work on the Cardano Blockchain. no fees, and no more funds being held by a company. 
 
+Community - [discord](https://discord.gg/aXXA9UsW2M) • [twitter](https://twitter.com/AltruiTweets) 
+
 ![header](./.github/header.png)
+> “Die Kinderkrippe” (La guardería), 1890, de Albert Anker.
+
 
 ---
 # why?
